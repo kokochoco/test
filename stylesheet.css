@@ -1,0 +1,11 @@
+.title {
+    color: #333;
+    font-family: 'Rufina','Helvetica','sans-serif';
+    letter-spacing: 0.03em;
+    font-size: 64px;
+  }
+
+  #padding {
+    padding: 300px 0px 0px 50px;
+    
+  }
