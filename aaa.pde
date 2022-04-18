@@ -8,7 +8,7 @@ void setup() {
   //size(1244,1244) ;
   //fullScreen();
   //size(displayWidth, displayHeight);
-  size(windowWidth, windowHeight);
+  size(screenWidth, screenHeight);
   for(int i=0; i<n; i++){
     b[i] = new Ball() ;
   }}
