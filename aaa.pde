@@ -5,7 +5,8 @@ int n = 80;
 Ball[] b = new Ball[n];
 
 void setup() {
-createCanvas(windowWidth, windowHeight);
+	createCanvas(windowWidth, windowHeight);
+	pixelDensity(1);
 
   for(int i=0; i<n; i++){
     b[i] = new Ball() ;
