@@ -13,7 +13,7 @@ void setup() {
   
   
   void draw() {
-     background(0);
+     background(1);
         rect(10,10,width,height);
      fill(10,200) ;
      stroke(color(29,100,225));
