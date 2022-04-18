@@ -7,7 +7,8 @@ Ball[] b = new Ball[n];
 void setup() {
   //size(1244,1244) ;
   //fullScreen();
-  size(displayWidth, displayHeight);
+  //size(displayWidth, displayHeight);
+  size(windowWidth, windowHeight);
   for(int i=0; i<n; i++){
     b[i] = new Ball() ;
   }}
